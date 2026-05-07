@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yoursite.com/</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/seasons.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/seasons.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/seasons.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/seasons.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/seasons.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/seasons.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/villagers.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/villagers.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/villagers.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/villagers.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/villagers.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/villagers.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/fishing.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/fishing.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/fishing.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/fishing.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/fishing.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/fishing.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/mining.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/mining.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/mining.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/mining.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/mining.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/mining.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/bundles.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/bundles.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/bundles.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/bundles.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/bundles.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/bundles.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/desert.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/desert.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/desert.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/desert.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/desert.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/desert.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/island.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/island.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/island.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/island.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/island.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/island.html"/>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/zh/tips.html</loc>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/tips.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/tips.html"/>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://yoursite.com/en/tips.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://yoursite.com/en/tips.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://yoursite.com/zh/tips.html"/>
+    <priority>0.8</priority>
+  </url>
+</urlset>
